@@ -12,9 +12,11 @@ Find the services you need, connect them to your applications and agents, and ma
 
 ## Open-source engineering showcase
 
-- [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler) — A robots-first, budget-aware Python and Scrapy crawler for documentation websites you are authorized to access. It exports source-linked JSON and CSV evidence while enforcing exact-origin, page, request, candidate and response-size limits.
+- [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler) ([v0.1.0](https://github.com/everyinfra/everyinfra-docs-crawler/releases/tag/v0.1.0)) — Crawl authorized documentation websites with robots-first controls, exact-origin limits and source-linked JSON or CSV evidence.
+- [EveryInfra API Contract Replay](https://github.com/everyinfra/everyinfra-api-contract-replay) ([v0.1.0](https://github.com/everyinfra/everyinfra-api-contract-replay/releases/tag/v0.1.0)) — Compare sanitized API fixtures, classify field-level schema drift and replay offline failure evidence without runtime dependencies.
+- [EveryInfra Media Metadata](https://github.com/everyinfra/everyinfra-media-metadata) ([v0.1.0](https://github.com/everyinfra/everyinfra-media-metadata/releases/tag/v0.1.0)) — Inspect one authorized media URL through a fixed no-cookie, no-playlist and no-download policy, then export an allowlisted metadata receipt.
 
-The crawler does not log in, import browser cookies, bypass access controls or claim production multi-tenant isolation. Its repository documents the verified behavior, source attribution and remaining limitations.
+Each repository documents its source attribution, verified behavior and remaining limits. The tools do not grant access rights, import browser cookies or bypass access controls.
 
 ## Choose a standalone agent skill
 
