@@ -10,6 +10,12 @@ Find the services you need, connect them to your applications and agents, and ma
 - [Read the API documentation](https://everyinfra.com/docs)
 - [Explore the all-in-one agent plugin](https://github.com/everyinfra/everyinfra-agent-plugins)
 
+## Open-source engineering showcase
+
+- [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler) — A robots-first, budget-aware Python and Scrapy crawler for documentation websites you are authorized to access. It exports source-linked JSON and CSV evidence while enforcing exact-origin, page, request, candidate and response-size limits.
+
+The crawler does not log in, import browser cookies, bypass access controls or claim production multi-tenant isolation. Its repository documents the verified behavior, source attribution and remaining limitations.
+
 ## Choose a standalone agent skill
 
 Each repository packages one skill with its own setup guide, examples and capability reference. Choose the task you need:
