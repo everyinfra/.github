@@ -10,6 +10,10 @@ Find the services you need, connect them to your applications and agents, and ma
 - [Read the API documentation](https://everyinfra.com/docs)
 - [Explore the all-in-one agent plugin](https://github.com/everyinfra/everyinfra-agent-plugins)
 
+## SDK releases
+
+- [EveryInfra SDK v0.2.1](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.1) — Updated data capability types. Release attachments include the official Python wheel (`everyinfra-0.2.1-py3-none-any.whl`) and Node package (`everyinfra-0.2.1.tgz`) with SHA-256 checksums, installable directly from the GitHub release. The customer plugin bundle latest may still be [v0.2.0](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.0); the SDK and the plugin bundle are versioned independently.
+
 ## Open-source engineering showcase
 
 - [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler) ([v0.1.0](https://github.com/everyinfra/everyinfra-docs-crawler/releases/tag/v0.1.0)) — Crawl authorized documentation websites with robots-first controls, exact-origin limits and source-linked JSON or CSV evidence.
