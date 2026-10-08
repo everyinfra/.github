@@ -15,12 +15,12 @@ Find the services you need, connect them to your applications and agents, and ma
 - [EveryInfra SDK v0.2.1](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.1) — Updated data capability types. Release attachments include the official Python wheel (`everyinfra-0.2.1-py3-none-any.whl`) and Node package (`everyinfra-0.2.1.tgz`) with SHA-256 checksums, installable directly from the GitHub release. The customer plugin bundle latest may still be [v0.2.0](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.0); the SDK and the plugin bundle are versioned independently.
 
 ## Open-source engineering showcase
-- [Jev Radar](https://github.com/everyinfra/jev-radar) ([v1.0.0](https://github.com/everyinfra/jev-radar/releases/tag/v1.0.0)) — The most rigorously verified tracker of the Jev (TypeSafe AI System One) ecosystem: **1,000+ confidence-graded registry entries** (A/B evidence tiers: artifact-inspected vs primary-source), 130+ automated scans in 20 days — every 3 hours across GitHub, X and community directories — plus a bilingual (EN/中文) casebook and a Jev API access guide. Live monitoring since 2026-09-19.
 
 - [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler) ([v0.1.0](https://github.com/everyinfra/everyinfra-docs-crawler/releases/tag/v0.1.0)) — Crawl authorized documentation websites with robots-first controls, exact-origin limits and source-linked JSON or CSV evidence.
 - [EveryInfra API Contract Replay](https://github.com/everyinfra/everyinfra-api-contract-replay) ([v0.1.0](https://github.com/everyinfra/everyinfra-api-contract-replay/releases/tag/v0.1.0)) — Compare sanitized API fixtures, classify field-level schema drift and replay offline failure evidence without runtime dependencies.
 - [EveryInfra Media Metadata](https://github.com/everyinfra/everyinfra-media-metadata) ([v0.1.0](https://github.com/everyinfra/everyinfra-media-metadata/releases/tag/v0.1.0)) — Inspect one authorized media URL through a fixed no-cookie, no-playlist and no-download policy, then export an allowlisted metadata receipt.
 
+- [Jev Radar](https://github.com/everyinfra/jev-radar) ([v1.0.0](https://github.com/everyinfra/jev-radar/releases/tag/v1.0.0)) — Our independent tracker of the Jev (TypeSafe AI System One) ecosystem: 1,000+ confidence-graded entries, scanned every 3 hours since 2026-09-19. It is also a live demonstration of how we treat evidence at EveryInfra — every claim graded, every source linked. The same methodology backs our marketplace tools.
 Each repository documents its source attribution, verified behavior and remaining limits. The tools do not grant access rights, import browser cookies or bypass access controls.
 
 ## Choose a standalone agent skill
