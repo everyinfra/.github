@@ -35,7 +35,7 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/team-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/team-light.svg">
-  <img alt="Equipo de EveryInfra: Echo, Founder & CEO, se graduó en la Universidad de Columbia; Hacking, Lead Engineer, trabajó antes en Amazon; keuury, Lead Engineer, trabajó antes en ByteDance." src="assets/team-light.svg" width="100%">
+  <img alt="Equipo de EveryInfra: Echo, Founder & CEO, se graduó en la Universidad de Columbia y trabajó antes en Databricks; Hacking, Lead Engineer, se graduó en la Universidad de Columbia y trabajó antes en Amazon y Stripe; keuury, Lead Engineer, se graduó en la Universidad de Harvard y trabajó antes en ByteDance (negocio internacional) y Oracle." src="assets/team-light.svg" width="100%">
 </picture>
 
 <details>
