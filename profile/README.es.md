@@ -30,6 +30,24 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | [CAPTCHA](https://everyinfra.com/es/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha_es) | 52 tipos de desafío |
 | [IA](https://everyinfra.com/es/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_es) | Chat compatible con OpenAI, gratis después de una recarga |
 
+## Cifras en vivo y actividad
+
+<!-- readme-stats: charts are regenerated daily, do not edit by hand -->
+
+Los dos gráficos se regeneran cada día: el primero con los catálogos en vivo y el segundo con el historial git de todos los repositorios de EveryInfra, incluido el gateway privado (solo recuentos). Cada uno muestra su hora de actualización.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-stats/coverage-es-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-stats/coverage-es-light.svg">
+  <img alt="Plataformas y APIs de datos por categoría, leídas del catálogo en vivo" src="assets/readme-stats/coverage-es-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-stats/activity-es-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-stats/activity-es-light.svg">
+  <img alt="Commits por día en todos los repositorios de EveryInfra y versiones por semana" src="assets/readme-stats/activity-es-light.svg" width="100%">
+</picture>
+
 ## Equipo
 
 <picture>

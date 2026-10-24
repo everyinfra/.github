@@ -30,6 +30,24 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | [验证码](https://everyinfra.com/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha_zh) | 52 种验证码类型 |
 | [AI](https://everyinfra.com/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_zh) | OpenAI 兼容的对话接口，充值后免费用 |
 
+## 实时数字与活跃度
+
+<!-- readme-stats: charts are regenerated daily, do not edit by hand -->
+
+两张图每天重新生成：第一张读线上目录，第二张读 EveryInfra 全部仓库（含未公开的网关仓，只统计数量）的 git 记录。图上写着更新时间。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-stats/coverage-zh-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-stats/coverage-zh-light.svg">
+  <img alt="按类别统计的平台数和数据接口数，读自线上目录" src="assets/readme-stats/coverage-zh-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-stats/activity-zh-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-stats/activity-zh-light.svg">
+  <img alt="EveryInfra 全部仓库每天的提交和每周的发版" src="assets/readme-stats/activity-zh-light.svg" width="100%">
+</picture>
+
 ## 团队
 
 <picture>
