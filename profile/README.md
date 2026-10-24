@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="EveryInfra: everything AI needs to run. Data (413 capabilities across 90 platforms), search (17 tools), CAPTCHA solving (52 types) and an AI API with one API key." src="assets/hero-light.svg" width="100%">
+    <img alt="The public web, as JSON, for AI agents. A line spider walks across a Xiaohongshu note, a TikTok video and an Amazon product; each field it lands on is typed out as JSON. 414 data APIs across 90 platforms, 17 search tools, CAPTCHA solving for 52 types and an AI API with one API key." src="assets/hero-light.svg" width="100%">
   </picture>
 </p>
 
@@ -25,18 +25,23 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 | Product | What you get |
 | --- | --- |
-| [Data](https://everyinfra.com/en/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data) | 413 capabilities across 90 platforms, from $0.56 per 1,000 calls |
+| [Data](https://everyinfra.com/en/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data) | 414 capabilities across 90 platforms, from $0.56 per 1,000 calls |
 | [Search](https://everyinfra.com/en/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search) | 17 web search tools with source links |
 | [CAPTCHA](https://everyinfra.com/en/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha) | 52 challenge types |
 | [AI](https://everyinfra.com/en/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai) | OpenAI-compatible chat completions, free after a top-up |
+
+## Team
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/team-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/team-light.svg">
+  <img alt="EveryInfra team: Echo, Founder and CEO, graduated from the National University of Singapore and Columbia University; Hacking, Lead Engineer, previously at Amazon; keuury, Lead Engineer, previously at ByteDance." src="assets/team-light.svg" width="100%">
+</picture>
 
 <details>
 <summary><b>SDK releases and open-source tools</b></summary>
 
 - [EveryInfra SDK v0.2.1](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.1): Python wheel and Node package with SHA-256 checksums, installable from the GitHub release.
-- [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler): crawl authorized documentation sites with robots-first controls and source-linked JSON or CSV.
-- [EveryInfra API Contract Replay](https://github.com/everyinfra/everyinfra-api-contract-replay): compare sanitized API fixtures and classify field-level schema drift offline.
-- [EveryInfra Media Metadata](https://github.com/everyinfra/everyinfra-media-metadata): inspect one authorized media URL with a no-cookie, no-download policy.
 - Standalone skills: [Router](https://github.com/everyinfra/everyinfra-router-plugin) · [EveryData](https://github.com/everyinfra/everydata-plugin) · [EverySearch](https://github.com/everyinfra/everysearch-plugin) · [EveryAI](https://github.com/everyinfra/everyai-plugin) · [EverySolve](https://github.com/everyinfra/everysolve-plugin) · [EveryMail](https://github.com/everyinfra/everymail-plugin) · [EveryNumber](https://github.com/everyinfra/everynumber-plugin) · [EveryProxy](https://github.com/everyinfra/everyproxy-plugin) · [Research](https://github.com/everyinfra/everyinfra-research-plugin) · [Data Export](https://github.com/everyinfra/everyinfra-data-export-plugin)
 
 </details>
