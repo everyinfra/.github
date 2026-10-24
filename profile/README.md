@@ -64,4 +64,4 @@ Both charts are regenerated every day: the first from the live catalogs, the sec
 
 </details>
 
-[Website](https://everyinfra.com/en?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site) · [Discord](https://discord.gg/9f6KmfekZC) · [Telegram: Everyinfra bot](https://t.me/everyinfra_bot) · [Terms](https://everyinfra.com/terms) · [Privacy](https://everyinfra.com/privacy)
+[Website](https://everyinfra.com/en?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site) · [<img src="assets/icons/discord.svg" width="16" height="16" alt=""> Discord](https://discord.gg/9f6KmfekZC) · [<img src="assets/icons/telegram.svg" width="16" height="16" alt=""> Telegram: Everyinfra bot](https://t.me/everyinfra_bot) · [Terms](https://everyinfra.com/terms) · [Privacy](https://everyinfra.com/privacy)

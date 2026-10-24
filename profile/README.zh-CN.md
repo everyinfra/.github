@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-**给 AI 应用和 Agent 的数据、网页搜索、验证码识别和 OpenAI 兼容 AI 接口。一个 API Key，走 REST、MCP 或 SDK 都行。按次计费，失败和空结果不扣费。**
+**给 AI 应用和 Agent 的数据、网页搜索、验证码识别和 <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI 兼容 AI 接口。一个 API Key，走 REST、MCP 或 SDK 都行。按次计费，失败和空结果不扣费。**
 
 <a href="https://everyinfra.com/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=btn_get_key_zh#quickstart"><img src="https://img.shields.io/badge/获取_API_Key-0A7F73?style=for-the-badge" alt="获取 API Key"></a>
 <a href="https://everyinfra.com/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=btn_docs_zh"><img src="https://img.shields.io/badge/文档-2F363D?style=for-the-badge" alt="文档"></a>
@@ -28,7 +28,7 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | [数据](https://everyinfra.com/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data_zh) | 90 个平台 414 项能力，每千次 $0.56 起 |
 | [搜索](https://everyinfra.com/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search_zh) | 17 个网页搜索工具，结果带来源链接 |
 | [验证码](https://everyinfra.com/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha_zh) | 52 种验证码类型 |
-| [AI](https://everyinfra.com/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_zh) | OpenAI 兼容的对话接口，充值后免费用 |
+| [AI](https://everyinfra.com/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_zh) | <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI 兼容的对话接口，充值后免费用 |
 
 ## 实时数字与活跃度
 
@@ -64,4 +64,4 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 </details>
 
-[官网](https://everyinfra.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site_zh) · [Discord](https://discord.gg/9f6KmfekZC) · [Telegram：Everyinfra bot](https://t.me/everyinfra_bot) · [条款](https://everyinfra.com/terms) · [隐私](https://everyinfra.com/privacy)
+[官网](https://everyinfra.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site_zh) · [<img src="assets/icons/discord.svg" width="16" height="16" alt=""> Discord](https://discord.gg/9f6KmfekZC) · [<img src="assets/icons/telegram.svg" width="16" height="16" alt=""> Telegram：Everyinfra bot](https://t.me/everyinfra_bot) · [条款](https://everyinfra.com/terms) · [隐私](https://everyinfra.com/privacy)

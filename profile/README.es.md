@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-**Datos, búsqueda web, resolución de CAPTCHA y una API de IA compatible con OpenAI para aplicaciones y agentes de IA. Una sola clave API, por REST, MCP o SDK. Pagas por llamada; las llamadas fallidas o vacías no se cobran.**
+**Datos, búsqueda web, resolución de CAPTCHA y una API de IA compatible con <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI para aplicaciones y agentes de IA. Una sola clave API, por REST, MCP o SDK. Pagas por llamada; las llamadas fallidas o vacías no se cobran.**
 
 <a href="https://everyinfra.com/es/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=btn_get_key_es#quickstart"><img src="https://img.shields.io/badge/Obtener_clave_API-0A7F73?style=for-the-badge" alt="Obtener clave API"></a>
 <a href="https://everyinfra.com/es/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=btn_docs_es"><img src="https://img.shields.io/badge/Documentación-2F363D?style=for-the-badge" alt="Documentación"></a>
@@ -28,7 +28,7 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | [Datos](https://everyinfra.com/es/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data_es) | 414 capacidades en 90 plataformas, desde $0.56 por cada 1.000 llamadas |
 | [Búsqueda](https://everyinfra.com/es/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search_es) | 17 herramientas de búsqueda web con enlaces a la fuente |
 | [CAPTCHA](https://everyinfra.com/es/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha_es) | 52 tipos de desafío |
-| [IA](https://everyinfra.com/es/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_es) | Chat compatible con OpenAI, gratis después de una recarga |
+| [IA](https://everyinfra.com/es/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_es) | Chat compatible con <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI, gratis después de una recarga |
 
 ## Cifras en vivo y actividad
 
@@ -64,4 +64,4 @@ Los dos gráficos se regeneran cada día: el primero con los catálogos en vivo 
 
 </details>
 
-[Sitio web](https://everyinfra.com/es?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site_es) · [Discord](https://discord.gg/9f6KmfekZC) · [Telegram: Everyinfra bot](https://t.me/everyinfra_bot) · [Términos](https://everyinfra.com/terms) · [Privacidad](https://everyinfra.com/privacy)
+[Sitio web](https://everyinfra.com/es?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site_es) · [<img src="assets/icons/discord.svg" width="16" height="16" alt=""> Discord](https://discord.gg/9f6KmfekZC) · [<img src="assets/icons/telegram.svg" width="16" height="16" alt=""> Telegram: Everyinfra bot](https://t.me/everyinfra_bot) · [Términos](https://everyinfra.com/terms) · [Privacidad](https://everyinfra.com/privacy)
