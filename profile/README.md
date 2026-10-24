@@ -1,45 +1,44 @@
-# EveryInfra
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img alt="EveryInfra: everything AI needs to run. Data (413 capabilities across 90 platforms), search (17 tools), CAPTCHA solving (52 types) and an AI API with one API key." src="assets/hero-light.svg" width="100%">
+  </picture>
+</p>
 
-Digital infrastructure for AI applications.
+**Data, web search, CAPTCHA solving and an OpenAI-compatible AI API for AI applications and agents. One API key, through REST, MCP or SDK. Pay per call; failed or empty calls are not charged.**
 
-Find the services you need, connect them to your applications and agents, and manage usage in one place. Choose the integration supported by each service: an API, MCP, an SDK, or resource credentials.
+<a href="https://everyinfra.com/en/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=btn_get_key#quickstart"><img src="https://img.shields.io/badge/Get_API_key-0A7F73?style=for-the-badge" alt="Get API key"></a>
+<a href="https://everyinfra.com/en/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=btn_docs"><img src="https://img.shields.io/badge/Docs-2F363D?style=for-the-badge" alt="Docs"></a>
+<a href="https://github.com/everyinfra/everyinfra-agent-plugins"><img src="https://img.shields.io/badge/Agent_plugin-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Agent plugin"></a>
 
-## Start here
+```bash
+claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
+  --header "Authorization: Bearer <API Key>"
+```
 
-- [Explore the infrastructure marketplace](https://everyinfra.com/market)
-- [Read the API documentation](https://everyinfra.com/docs)
-- [Explore the all-in-one agent plugin](https://github.com/everyinfra/everyinfra-agent-plugins)
+<sub>Cursor, VS Code and Codex: one-click buttons in [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins#quick-start).</sub>
 
-## SDK releases
+⭐ **Star us on GitHub, get $1 in credit.** Star [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins), then claim it in the [console](https://everyinfra.com/en/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=star_line#quickstart).
 
-- [EveryInfra SDK v0.2.1](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.1) — Updated data capability types. Release attachments include the official Python wheel (`everyinfra-0.2.1-py3-none-any.whl`) and Node package (`everyinfra-0.2.1.tgz`) with SHA-256 checksums, installable directly from the GitHub release. The customer plugin bundle latest may still be [v0.2.0](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.0); the SDK and the plugin bundle are versioned independently.
+**English** · [简体中文](https://github.com/everyinfra/.github/blob/main/profile/README.zh-CN.md) · [Español](https://github.com/everyinfra/.github/blob/main/profile/README.es.md)
 
-## Open-source engineering showcase
+| Product | What you get |
+| --- | --- |
+| [Data](https://everyinfra.com/en/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data) | 413 capabilities across 90 platforms, from $0.56 per 1,000 calls |
+| [Search](https://everyinfra.com/en/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search) | 17 web search tools with source links |
+| [CAPTCHA](https://everyinfra.com/en/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha) | 52 challenge types |
+| [AI](https://everyinfra.com/en/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai) | OpenAI-compatible chat completions, free after a top-up |
 
-- [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler) ([v0.1.0](https://github.com/everyinfra/everyinfra-docs-crawler/releases/tag/v0.1.0)) — Crawl authorized documentation websites with robots-first controls, exact-origin limits and source-linked JSON or CSV evidence.
-- [EveryInfra API Contract Replay](https://github.com/everyinfra/everyinfra-api-contract-replay) ([v0.1.0](https://github.com/everyinfra/everyinfra-api-contract-replay/releases/tag/v0.1.0)) — Compare sanitized API fixtures, classify field-level schema drift and replay offline failure evidence without runtime dependencies.
-- [EveryInfra Media Metadata](https://github.com/everyinfra/everyinfra-media-metadata) ([v0.1.0](https://github.com/everyinfra/everyinfra-media-metadata/releases/tag/v0.1.0)) — Inspect one authorized media URL through a fixed no-cookie, no-playlist and no-download policy, then export an allowlisted metadata receipt.
+<details>
+<summary><b>SDK releases and open-source tools</b></summary>
 
-- [Jev Radar](https://github.com/everyinfra/jev-radar) ([v1.0.0](https://github.com/everyinfra/jev-radar/releases/tag/v1.0.0)) — Our independent tracker of the Jev (TypeSafe AI System One) ecosystem: 1,000+ confidence-graded entries, scanned every 3 hours since 2026-09-19. It is also a live demonstration of how we treat evidence at EveryInfra — every claim graded, every source linked. The same methodology backs our marketplace tools.
-Each repository documents its source attribution, verified behavior and remaining limits. The tools do not grant access rights, import browser cookies or bypass access controls.
+- [EveryInfra SDK v0.2.1](https://github.com/everyinfra/everyinfra-agent-plugins/releases/tag/v0.2.1): Python wheel and Node package with SHA-256 checksums, installable from the GitHub release.
+- [EveryInfra Docs Crawler](https://github.com/everyinfra/everyinfra-docs-crawler): crawl authorized documentation sites with robots-first controls and source-linked JSON or CSV.
+- [EveryInfra API Contract Replay](https://github.com/everyinfra/everyinfra-api-contract-replay): compare sanitized API fixtures and classify field-level schema drift offline.
+- [EveryInfra Media Metadata](https://github.com/everyinfra/everyinfra-media-metadata): inspect one authorized media URL with a no-cookie, no-download policy.
+- Standalone skills: [Router](https://github.com/everyinfra/everyinfra-router-plugin) · [EveryData](https://github.com/everyinfra/everydata-plugin) · [EverySearch](https://github.com/everyinfra/everysearch-plugin) · [EveryAI](https://github.com/everyinfra/everyai-plugin) · [EverySolve](https://github.com/everyinfra/everysolve-plugin) · [EveryMail](https://github.com/everyinfra/everymail-plugin) · [EveryNumber](https://github.com/everyinfra/everynumber-plugin) · [EveryProxy](https://github.com/everyinfra/everyproxy-plugin) · [Research](https://github.com/everyinfra/everyinfra-research-plugin) · [Data Export](https://github.com/everyinfra/everyinfra-data-export-plugin)
 
-## Choose a standalone agent skill
+</details>
 
-Each repository packages one skill with its own setup guide, examples and capability reference. Choose the task you need:
-
-- [EveryInfra Router](https://github.com/everyinfra/everyinfra-router-plugin) — Find the right infrastructure capability before execution.
-- [EveryData](https://github.com/everyinfra/everydata-plugin) — Discover supported public-data actions and query structured records.
-- [EverySearch](https://github.com/everyinfra/everysearch-plugin) — Search the web and retrieve pages with original source links.
-- [EveryAI](https://github.com/everyinfra/everyai-plugin) — Classify, extract, translate and summarize supplied text.
-- [EverySolve](https://github.com/everyinfra/everysolve-plugin) — Discover challenge schemas and handle authorized captcha workflows.
-- [EveryMail](https://github.com/everyinfra/everymail-plugin) — Check REST sender readiness and prepare email for approved delivery.
-- [EveryNumber](https://github.com/everyinfra/everynumber-plugin) — Inspect REST activation and rental options, with bounded code polling.
-- [EveryProxy](https://github.com/everyinfra/everyproxy-plugin) — Review traffic-billed REST proxy packages and control approved credential delivery.
-- [EveryInfra Research](https://github.com/everyinfra/everyinfra-research-plugin) — Compare primary sources and produce evidence-linked conclusions.
-- [EveryInfra Data Export](https://github.com/everyinfra/everyinfra-data-export-plugin) — Export supported records to CSV or JSON with bounded pagination and deduplication.
-
-Standalone skills reuse your configured MCP or REST access. Installing a skill does not create service access or grant account permissions. Avoid installing the same skill through both the bundle and a standalone package.
-
-The marketplace and documentation describe current capabilities and availability. Each plugin repository explains setup and permissions; public source code and package metadata do not mean an official marketplace has approved the plugin.
-
-For service terms and contact options, visit [everyinfra.com](https://everyinfra.com), [Terms](https://everyinfra.com/terms), or [Privacy](https://everyinfra.com/privacy). For plugin issues, use the repository's support guidance.
+[Website](https://everyinfra.com/en?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer_site) · [Discord](https://discord.gg/9f6KmfekZC) · [Telegram: Everyinfra bot](https://t.me/everyinfra_bot) · [Terms](https://everyinfra.com/terms) · [Privacy](https://everyinfra.com/privacy)
