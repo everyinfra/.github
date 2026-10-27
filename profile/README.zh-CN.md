@@ -34,23 +34,13 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | [AI](https://everyinfra.com/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_zh) | <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI 兼容的对话接口，充值后免费用 |
 
 <!-- rq223-listed -->
-## 已上架 7 家平台
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/listed-zh-dark.jpg">
   <source media="(prefers-color-scheme: light)" srcset="assets/listed-zh-light.jpg">
   <img alt="已上架 7 家平台: ModelScope, Smithery, Cursor, ClawHub, MCP Registry, Glama, integrations.sh" src="assets/listed-zh-light.jpg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://modelscope.cn/mcp/servers/xiaoyuaimaomao/EveryInfra"><img src="assets/launch-cards/modelscope-zh.jpg" width="32%" alt="EveryInfra 已上架 ModelScope"></a>
-  <a href="https://smithery.ai/servers/everyinfra/api"><img src="assets/launch-cards/smithery-zh.jpg" width="32%" alt="EveryInfra 已上架 Smithery"></a>
-  <a href="https://cursor.directory/plugins/everyinfra-tiktok-instagram-amazon-data"><img src="assets/launch-cards/cursor-zh.jpg" width="32%" alt="EveryInfra 已上架 Cursor Directory"></a>
-  <a href="https://clawhub.ai/skills/everyinfra"><img src="assets/launch-cards/clawhub-zh.jpg" width="32%" alt="EveryInfra 已上架 ClawHub"></a>
-  <a href="https://registry.modelcontextprotocol.io/v0/servers?search=everyinfra"><img src="assets/launch-cards/mcp-registry-zh.jpg" width="32%" alt="EveryInfra 已上架 MCP Registry"></a>
-  <a href="https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra"><img src="assets/launch-cards/glama-zh.jpg" width="32%" alt="EveryInfra 已上架 Glama"></a>
-  <a href="https://integrations.sh/everyinfra.com"><img src="assets/launch-cards/integrations-sh-zh.jpg" width="32%" alt="EveryInfra 已上架 integrations.sh"></a>
-</p>
+<p align="center"><a href="https://modelscope.cn/mcp/servers/xiaoyuaimaomao/EveryInfra"><img src="assets/launch-cards/modelscope-zh.webp" width="33.33%" alt="EveryInfra 已上架 ModelScope"></a><a href="https://smithery.ai/servers/everyinfra/api"><img src="assets/launch-cards/smithery-zh.webp" width="33.33%" alt="EveryInfra 已上架 Smithery"></a><a href="https://cursor.directory/plugins/everyinfra-tiktok-instagram-amazon-data"><img src="assets/launch-cards/cursor-zh.webp" width="33.33%" alt="EveryInfra 已上架 Cursor Directory"></a><a href="https://clawhub.ai/skills/everyinfra"><img src="assets/launch-cards/clawhub-zh.webp" width="33.33%" alt="EveryInfra 已上架 ClawHub"></a><a href="https://registry.modelcontextprotocol.io/v0/servers?search=everyinfra"><img src="assets/launch-cards/mcp-registry-zh.webp" width="33.33%" alt="EveryInfra 已上架 MCP Registry"></a><a href="https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra"><img src="assets/launch-cards/glama-zh.webp" width="33.33%" alt="EveryInfra 已上架 Glama"></a><a href="https://integrations.sh/everyinfra.com"><img src="assets/launch-cards/integrations-sh-zh.webp" width="33.33%" alt="EveryInfra 已上架 integrations.sh"></a></p>
 
 ## 实时数字与活跃度
 

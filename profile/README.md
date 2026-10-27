@@ -34,23 +34,13 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | [AI](https://everyinfra.com/en/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai) | OpenAI-compatible chat completions, free after a top-up |
 
 <!-- rq223-listed -->
-## Listed on 7 directories
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/listed-en-dark.jpg">
   <source media="(prefers-color-scheme: light)" srcset="assets/listed-en-light.jpg">
   <img alt="Listed on 7 directories: ModelScope, Smithery, Cursor, ClawHub, MCP Registry, Glama, integrations.sh" src="assets/listed-en-light.jpg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://modelscope.cn/mcp/servers/xiaoyuaimaomao/EveryInfra"><img src="assets/launch-cards/modelscope-en.jpg" width="32%" alt="EveryInfra on ModelScope"></a>
-  <a href="https://smithery.ai/servers/everyinfra/api"><img src="assets/launch-cards/smithery-en.jpg" width="32%" alt="EveryInfra on Smithery"></a>
-  <a href="https://cursor.directory/plugins/everyinfra-tiktok-instagram-amazon-data"><img src="assets/launch-cards/cursor-en.jpg" width="32%" alt="EveryInfra on Cursor Directory"></a>
-  <a href="https://clawhub.ai/skills/everyinfra"><img src="assets/launch-cards/clawhub-en.jpg" width="32%" alt="EveryInfra on ClawHub"></a>
-  <a href="https://registry.modelcontextprotocol.io/v0/servers?search=everyinfra"><img src="assets/launch-cards/mcp-registry-en.jpg" width="32%" alt="EveryInfra on MCP Registry"></a>
-  <a href="https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra"><img src="assets/launch-cards/glama-en.jpg" width="32%" alt="EveryInfra on Glama"></a>
-  <a href="https://integrations.sh/everyinfra.com"><img src="assets/launch-cards/integrations-sh-en.jpg" width="32%" alt="EveryInfra on integrations.sh"></a>
-</p>
+<p align="center"><a href="https://modelscope.cn/mcp/servers/xiaoyuaimaomao/EveryInfra"><img src="assets/launch-cards/modelscope-en.webp" width="33.33%" alt="EveryInfra on ModelScope"></a><a href="https://smithery.ai/servers/everyinfra/api"><img src="assets/launch-cards/smithery-en.webp" width="33.33%" alt="EveryInfra on Smithery"></a><a href="https://cursor.directory/plugins/everyinfra-tiktok-instagram-amazon-data"><img src="assets/launch-cards/cursor-en.webp" width="33.33%" alt="EveryInfra on Cursor Directory"></a><a href="https://clawhub.ai/skills/everyinfra"><img src="assets/launch-cards/clawhub-en.webp" width="33.33%" alt="EveryInfra on ClawHub"></a><a href="https://registry.modelcontextprotocol.io/v0/servers?search=everyinfra"><img src="assets/launch-cards/mcp-registry-en.webp" width="33.33%" alt="EveryInfra on MCP Registry"></a><a href="https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra"><img src="assets/launch-cards/glama-en.webp" width="33.33%" alt="EveryInfra on Glama"></a><a href="https://integrations.sh/everyinfra.com"><img src="assets/launch-cards/integrations-sh-en.webp" width="33.33%" alt="EveryInfra on integrations.sh"></a></p>
 
 ## Live numbers and activity
 
