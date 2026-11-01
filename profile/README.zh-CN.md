@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="面向 AI Agent 的公开网页 JSON。一只线条蜘蛛走过小红书笔记、TikTok 视频和亚马逊商品页，脚落到的字段逐字打成 JSON。90 个平台 414 项数据能力、17 个搜索工具、52 种验证码识别和 AI 接口，一个 API Key 全部可用。" src="assets/hero-light.svg" width="100%">
+    <img alt="面向 AI Agent 的公开网页 JSON。一只线条蜘蛛走过小红书笔记、TikTok 视频和亚马逊商品页，脚落到的字段逐字打成 JSON。106 个平台 573 项数据能力、17 个搜索工具、52 种验证码识别和 AI 接口，一个 API Key 全部可用。" src="assets/hero-light.svg" width="100%">
   </picture>
 </p>
 
@@ -28,7 +28,7 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 | 产品 | 能做什么 |
 | --- | --- |
-| [数据](https://everyinfra.com/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data_zh) | 90 个平台 414 项能力，每千次 $0.56 起 |
+| [数据](https://everyinfra.com/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data_zh) | 106 个平台 573 项能力，每千次 $0.56 起 |
 | [搜索](https://everyinfra.com/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search_zh) | 17 个网页搜索工具，结果带来源链接 |
 | [验证码](https://everyinfra.com/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha_zh) | 52 种验证码类型 |
 | [AI](https://everyinfra.com/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_zh) | <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI 兼容的对话接口，充值后免费用 |

@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="La web pública en JSON para agentes de IA. Una araña de líneas recorre una nota de Xiaohongshu, un vídeo de TikTok y un producto de Amazon; cada campo que pisa se escribe como JSON. 414 APIs de datos en 90 plataformas, 17 herramientas de búsqueda, resolución de CAPTCHA de 52 tipos y una API de IA con una sola API key." src="assets/hero-light.svg" width="100%">
+    <img alt="La web pública en JSON para agentes de IA. Una araña de líneas recorre una nota de Xiaohongshu, un vídeo de TikTok y un producto de Amazon; cada campo que pisa se escribe como JSON. 573 APIs de datos en 106 plataformas, 17 herramientas de búsqueda, resolución de CAPTCHA de 52 tipos y una API de IA con una sola API key." src="assets/hero-light.svg" width="100%">
   </picture>
 </p>
 
@@ -28,7 +28,7 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 | Producto | Qué obtienes |
 | --- | --- |
-| [Datos](https://everyinfra.com/es/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data_es) | 414 capacidades en 90 plataformas, desde $0.56 por cada 1.000 llamadas |
+| [Datos](https://everyinfra.com/es/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data_es) | 573 capacidades en 106 plataformas, desde $0.56 por cada 1.000 llamadas |
 | [Búsqueda](https://everyinfra.com/es/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search_es) | 17 herramientas de búsqueda web con enlaces a la fuente |
 | [CAPTCHA](https://everyinfra.com/es/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha_es) | 52 tipos de desafío |
 | [IA](https://everyinfra.com/es/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai_es) | Chat compatible con <img src="assets/icons/codex.svg" width="16" height="16" alt=""> OpenAI, gratis después de una recarga |

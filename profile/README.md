@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="The public web, as JSON, for AI agents. A line spider walks across a Xiaohongshu note, a TikTok video and an Amazon product; each field it lands on is typed out as JSON. 414 data APIs across 90 platforms, 17 search tools, CAPTCHA solving for 52 types and an AI API with one API key." src="assets/hero-light.svg" width="100%">
+    <img alt="The public web, as JSON, for AI agents. A line spider walks across a Xiaohongshu note, a TikTok video and an Amazon product; each field it lands on is typed out as JSON. 573 data APIs across 106 platforms, 17 search tools, CAPTCHA solving for 52 types and an AI API with one API key." src="assets/hero-light.svg" width="100%">
   </picture>
 </p>
 
@@ -28,7 +28,7 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 | Product | What you get |
 | --- | --- |
-| [Data](https://everyinfra.com/en/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data) | 414 capabilities across 90 platforms, from $0.56 per 1,000 calls |
+| [Data](https://everyinfra.com/en/market?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_data) | 573 capabilities across 106 platforms, from $0.56 per 1,000 calls |
 | [Search](https://everyinfra.com/en/products/search?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_search) | 17 web search tools with source links |
 | [CAPTCHA](https://everyinfra.com/en/captcha?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_captcha) | 52 challenge types |
 | [AI](https://everyinfra.com/en/products/ai?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table_ai) | OpenAI-compatible chat completions, free after a top-up |
