@@ -22,8 +22,6 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 <sub>Cursor, VS Code and Codex: one-click buttons in [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins#quick-start).</sub>
 
-⭐ **Star us on GitHub, get $1 in credit.** Star [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins), then claim it in the [console](https://everyinfra.com/en/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=star_line#quickstart).
-
 **English** · [简体中文](https://github.com/everyinfra/.github/blob/main/profile/README.zh-CN.md) · [Español](https://github.com/everyinfra/.github/blob/main/profile/README.es.md)
 
 | Product | What you get |

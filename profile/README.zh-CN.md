@@ -22,8 +22,6 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 
 <sub>Cursor、VS Code 和 Codex 的一键安装按钮在 [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins/blob/main/i18n/README.zh-CN.md)。在中国大陆，可以把地址换成 `https://api-cn.everyinfra.com/mcp`。</sub>
 
-⭐ **在 GitHub 点星领 $1 额度。** 给 [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins) 点星，再到[控制台](https://everyinfra.com/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=star_line_zh#quickstart)「余额与充值」领取。
-
 [English](https://github.com/everyinfra) · **简体中文** · [Español](https://github.com/everyinfra/.github/blob/main/profile/README.es.md)
 
 | 产品 | 能做什么 |
