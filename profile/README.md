@@ -80,6 +80,8 @@ Engineers and researchers who build and run EveryInfra with the three founders:
 | SRE and security | Ben Ortiz · Felix Novak |
 | AI | Jun-seo Park |
 
+Full bios: education, previous roles and what each person owns at EveryInfra → [TEAM.md](TEAM.md)
+
 <details>
 <summary><b>SDK releases and open-source tools</b></summary>
 

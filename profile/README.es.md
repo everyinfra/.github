@@ -80,6 +80,8 @@ Ingenieros e investigadores que construyen y operan EveryInfra junto a los tres 
 | SRE y seguridad | Ben Ortiz · Felix Novak |
 | IA | Jun-seo Park |
 
+Biografías completas: formación, puestos anteriores y de qué se encarga cada persona en EveryInfra → [TEAM.es.md](TEAM.es.md)
+
 <details>
 <summary><b>Versiones del SDK y herramientas de código abierto</b></summary>
 

@@ -80,6 +80,8 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
 | SRE 与安全 | Ben Ortiz · Felix Novak |
 | AI | Jun-seo Park |
 
+完整履历（毕业院校、曾任职公司、在 EveryInfra 负责什么）→ [TEAM.zh-CN.md](TEAM.zh-CN.md)
+
 <details>
 <summary><b>SDK 发布与开源工具</b></summary>
 
