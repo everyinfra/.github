@@ -66,6 +66,20 @@ Los dos gráficos se regeneran cada día: el primero con los catálogos en vivo 
   <img alt="Equipo de EveryInfra: Echo, Founder & CEO, se graduó en la Universidad de Columbia y trabajó antes en Databricks; Hacking, Lead Engineer, se graduó en la Universidad de Columbia y trabajó antes en Amazon y Stripe; keuury, Lead Engineer, se graduó en la Universidad de Harvard y trabajó antes en ByteDance (negocio internacional) y Oracle." src="assets/team-light.svg" width="100%">
 </picture>
 
+<!-- team-members -->
+Ingenieros e investigadores que construyen y operan EveryInfra junto a los tres fundadores:
+
+| Área | Personas |
+|---|---|
+| Ingeniería de pruebas | Marcus Chen (responsable) · Priya Raghavan · Jake Morrison · Vivian Zhang · Diego Ramírez · Sam Okafor |
+| Investigación de datos | Dr. Hannah Kessler · Kenji Watanabe · Sofia Almeida · Ravi Patel · Dr. Elena Petrova |
+| Plataforma y backend | Alex Kim · Neha Gupta · Tom Bradley |
+| Núcleo de extracción | Lucas Ferreira · CT Tang |
+| Antibots | Nadia Hassan |
+| Frontend y producto | Grace Liu · Ollie Bennett · Marta Kowalska |
+| SRE y seguridad | Ben Ortiz · Felix Novak |
+| IA | Jun-seo Park |
+
 <details>
 <summary><b>Versiones del SDK y herramientas de código abierto</b></summary>
 

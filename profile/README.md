@@ -66,6 +66,20 @@ Both charts are regenerated every day: the first from the live catalogs, the sec
   <img alt="EveryInfra team: Echo, Founder and CEO, graduated from Columbia University, previously at Databricks; Hacking, Lead Engineer, graduated from Columbia University, previously at Amazon and Stripe; keuury, Lead Engineer, graduated from Harvard University, previously at ByteDance (international business) and Oracle." src="assets/team-light.svg" width="100%">
 </picture>
 
+<!-- team-members -->
+Engineers and researchers who build and run EveryInfra with the three founders:
+
+| Area | People |
+|---|---|
+| Test engineering | Marcus Chen (lead) · Priya Raghavan · Jake Morrison · Vivian Zhang · Diego Ramírez · Sam Okafor |
+| Data research | Dr. Hannah Kessler · Kenji Watanabe · Sofia Almeida · Ravi Patel · Dr. Elena Petrova |
+| Platform and backend | Alex Kim · Neha Gupta · Tom Bradley |
+| Scraping core | Lucas Ferreira · CT Tang |
+| Anti-bot | Nadia Hassan |
+| Frontend and product | Grace Liu · Ollie Bennett · Marta Kowalska |
+| SRE and security | Ben Ortiz · Felix Novak |
+| AI | Jun-seo Park |
+
 <details>
 <summary><b>SDK releases and open-source tools</b></summary>
 

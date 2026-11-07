@@ -66,6 +66,20 @@ claude mcp add --transport http everyinfra https://api.everyinfra.com/mcp \
   <img alt="EveryInfra 团队：Echo，创始人兼 CEO，毕业于哥伦比亚大学，曾任职于 Databricks；Hacking，主力工程师，毕业于哥伦比亚大学，曾任职于亚马逊、Stripe；keuury，主力工程师，毕业于哈佛大学，曾任职于字节跳动（海外业务）、甲骨文。" src="assets/team-light.svg" width="100%">
 </picture>
 
+<!-- team-members -->
+和三位创始人一起做 EveryInfra 的工程师和研究员：
+
+| 方向 | 成员 |
+|---|---|
+| 测试开发 | Marcus Chen（负责人） · Priya Raghavan · Jake Morrison · Vivian Zhang · Diego Ramírez · Sam Okafor |
+| 数据研究 | Dr. Hannah Kessler · Kenji Watanabe · Sofia Almeida · Ravi Patel · Dr. Elena Petrova |
+| 平台与后端 | Alex Kim · Neha Gupta · Tom Bradley |
+| 爬虫核心 | Lucas Ferreira · CT Tang |
+| 反爬对抗 | Nadia Hassan |
+| 前端与产品 | Grace Liu · Ollie Bennett · Marta Kowalska |
+| SRE 与安全 | Ben Ortiz · Felix Novak |
+| AI | Jun-seo Park |
+
 <details>
 <summary><b>SDK 发布与开源工具</b></summary>
 
